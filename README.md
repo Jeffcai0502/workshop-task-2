@@ -184,9 +184,9 @@ function draw() {
 <img width="399" alt="截屏2025-01-29 上午8 28 58" src="https://github.com/user-attachments/assets/7e803cc3-0e4e-4391-a714-cea4c466bdd5" />
 <img width="399" alt="截屏2025-01-29 上午8 28 55" src="https://github.com/user-attachments/assets/0eff3980-f2e8-4bc7-81d7-f6d0cbfec7a7" />
 
-###New things learned in p5js documentation
+### New things learned in p5js documentation
 
-##setInterval
+## setInterval
 
 -Purpose: Executes a function repeatedly at specified intervals.
 
@@ -197,7 +197,7 @@ function draw() {
 -delay: The time interval (in milliseconds) between each execution of the function.
 
 
-##setTimeout
+## setTimeout
 -Purpose: Executes a function once after a specified delay.
 
 -Syntax: setTimeout(function, delay)
@@ -206,7 +206,7 @@ function draw() {
 
 -delay: The time delay (in milliseconds) before the function is executed.
 
-##Key Differences
+## Key Differences
 
 Repetition: setInterval repeats the function execution at regular intervals, while setTimeout executes the function only once after the delay.
 
@@ -216,3 +216,10 @@ setInterval: Ideal for tasks that need to be repeated, such as animations, updat
 
 setTimeout: Useful for delayed actions, such as showing a message after a certain time or delaying the execution of a function.
 
+## Future Development
+
+Make it more interative with the user.
+
+Change the background.
+
+Maybe make those circle move.
