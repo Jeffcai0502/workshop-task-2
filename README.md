@@ -1,10 +1,10 @@
 # workshop-task-2
 FA205_Workshop_2
 
-Project link: [link]()
+Project link: [link](https://jeffcai0502.github.io/workshop-task-2/)
 
 ## Task
--Try using an IDE running locally on your own computer, rather than the p5.js web editor. VSCodium or VSCode are recommended. If you use  VSCodium, see this workaround to install the p5.vscode extension Links to an external site. and use this file Download this file (you can install the Live Preview extension through the application's extension manager). For VSCode, you can install both extensions from the application's extension manager.
+-Started using an IDE running locally on your own computer, rather than the p5.js web editor. VSCodium or VSCode are recommended. If you use  VSCodium, see this workaround to install the p5.vscode extension Links to an external site. and use this file Download this file (you can install the Live Preview extension through the application's extension manager). For VSCode, you can install both extensions from the application's extension manager.
 
 <img width="251" alt="截屏2025-01-28 下午12 11 28" src="https://github.com/user-attachments/assets/0f059981-12b0-48c3-a68a-c850b3c7b3c7" />
 
